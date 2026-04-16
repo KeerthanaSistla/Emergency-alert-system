@@ -1,0 +1,5 @@
+pip install opencv-contrib-python
+pip install cvzone
+pip install --upgrade pip
+pip install mediapipe
+pip install numpy
