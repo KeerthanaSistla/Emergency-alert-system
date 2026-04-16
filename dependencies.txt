@@ -1,9 +1,10 @@
-pip install opencv-contrib-python
-pip install cvzone
-pip install --upgrade pip
-pip install mediapipe
-pip install numpy
+TensorFlow → 2.15.0
+MediaPipe → 0.10.13
+cvzone → 1.6.1
+NumPy → 1.26.4
+OpenCV → 4.9.0.80
+protobuf 4.25.9
 
->> pip install numpy==1.24.3
->> pip install opencv-contrib-python==4.9.0.80
->> pip install mediapipe==0.10.13
+git add .
+git commit -m "Message"
+git push origin main
