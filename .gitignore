@@ -3,3 +3,10 @@ myenv/
 venv/
 __pycache__/
 *.pyc
+Data/1/
+Data/2/
+Data/3/
+Data/Heart/
+Data/Ok/
+Data/SOS/
+Data/ThankYou/
