@@ -11,7 +11,7 @@ offset = 20
 imgSize = 300
 counter = 0
 
-labels = ["Hello", "Stop"]
+labels = ["1", "2", "3", "Heart", "Ok", "SOS", "ThankYou"]
 
 
 while True:
